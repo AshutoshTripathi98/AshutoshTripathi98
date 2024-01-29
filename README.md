@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshutoshTripathi
+- 👋 Hi, I’m AshutoshTripathi
 
 <!---
 AshutoshTripathi98/AshutoshTripathi98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
